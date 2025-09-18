@@ -20,36 +20,27 @@ Each course may include:
 
 ```
 PythonCourses/
-
 │
-
 ├── /
-
 │   └── /
-
 │       ├── *-Full Notebook.ipynb               # Jupyter notebooks used during the session
-
 │       ├── *-Interactive Notebook.ipynb        # Backup versions of full Jupyter sessions
-
 │       └── *.pdf                               # PDF presentations
-
 │
-
 └── README.md
 ```
 ---
 
 ## 🚀 Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/LRZ-CXS-Teaching/PythonCourses.git
-```
+
+  ` git clone https://github.com/LRZ-CXS-Teaching/PythonCourses.git`
+
 2. Navigate to the folder of the course you are interested in.
 
 3. Open the Jupyter notebooks with:
-```bash
-jupyter notebook
-```
+
+  ` jupyter notebook`
 
 4. Use the provided PDF slides as reference material.
 
