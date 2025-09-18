@@ -31,20 +31,7 @@ PythonCourses/
 ```
 ---
 
-## 🚀 Usage
-1. Clone the repository:
-
-  ` git clone https://github.com/LRZ-CXS-Teaching/PythonCourses.git`
-
-2. Navigate to the folder of the course you are interested in.
-
-3. Open the Jupyter notebooks with:
-
-  ` jupyter notebook`
-
-4. Use the provided PDF slides as reference material.
-
-📝 Notes
+**📝 Notes**
 
 * More courses will be added over time.
 * The structure is designed to keep materials for different courses organized and easy to access.
