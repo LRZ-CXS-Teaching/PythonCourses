@@ -1,5 +1,4 @@
 import sys
-
 import numpy as np
 
 
@@ -20,5 +19,10 @@ def main() -> None:
     print("Random number from NumPy:", np.random.rand())
 
 
+print(
+    "This is a very long line that will definitely trigger a flake8 line length warning because it exceeds seventy-nine characters"
+)
+
 if __name__ == "__main__":
     main()
+
