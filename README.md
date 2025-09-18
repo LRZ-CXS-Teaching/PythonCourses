@@ -23,8 +23,8 @@ PythonCourses/
 │
 ├── /
 │   └── /
-│       ├── *-Full Notebook.ipynb               # Jupyter notebooks used during the session
-│       ├── *-Interactive Notebook.ipynb        # Backup versions of full Jupyter sessions
+│       ├── *-Interactive Notebook.ipynb        # Jupyter notebooks used during the session
+│       ├── *-Full Notebook.ipynb               # Backup versions of full Jupyter sessions
 │       └── *.pdf                               # PDF presentations
 │
 └── README.md
