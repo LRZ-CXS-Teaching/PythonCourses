@@ -1,5 +1,8 @@
-import sys
 import numpy as np
+import os
+import sys
+
+print(os.getcwd())
 
 
 def greet(name):
