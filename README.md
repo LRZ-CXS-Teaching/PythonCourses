@@ -22,6 +22,13 @@ Each course may include:
 - [**Parallel Computing and Accelerated Python**](AI_TrainingSeries/October-2025/Session5/)
 ---
 
+### Modern Python in Depth - From Fundamentals to Acceleration
+- [**Core Python - Fundamentals**](01-26-Python/Session1/)
+- [**Core Python - Advanced**](01-26-Python/Session2/)
+- [**Python Tooling**](01-26-Python/Session3/)
+- [**Scientific Python**](01-26-Python/Session4/)
+- [**Parallel Computing and Accelerated Python**](01-26-Python/Session5/)
+
 ## 📂 Repository Structure
 
 ```
