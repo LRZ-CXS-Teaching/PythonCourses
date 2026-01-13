@@ -10,18 +10,18 @@ Each course may include:
 
 ## 📚 Available Courses
 
-### CXS Internal Course – September 2025
+### CXS Internal Course (September 2025)
 - [**Python Advanced** – 22.09.2025](CXS_internal_courses/September-2025/22-09-PythonAdvanced/)  
 - [**Python Tooling** – 23.09.2025](CXS_internal_courses/September-2025/23-09-PythonTooling/)  
 
-### AI Training Series: Python Refresher - October 2025
+### AI Training Series: Python Refresher (October 2025)
 - [**Core Python - Fundamentals**](AI_TrainingSeries/October-2025/Session1/)
 - [**Core Python - Advanced**](AI_TrainingSeries/October-2025/Session2/)
 - [**Python Tooling**](AI_TrainingSeries/October-2025/Session3/)
 - [**Scientific Python**](AI_TrainingSeries/October-2025/Session4/)
 - [**Parallel Computing and Accelerated Python**](AI_TrainingSeries/October-2025/Session5/)
 
-### Modern Python in Depth - From Fundamentals to Acceleration
+### Modern Python in Depth - From Fundamentals to Acceleration (January 2026)
 - [**Core Python - Fundamentals**](01-26-Python/Session1/)
 - [**Core Python - Advanced**](01-26-Python/Session2/)
 - [**Python Tooling**](01-26-Python/Session3/)
