@@ -20,7 +20,6 @@ Each course may include:
 - [**Python Tooling**](AI_TrainingSeries/October-2025/Session3/)
 - [**Scientific Python**](AI_TrainingSeries/October-2025/Session4/)
 - [**Parallel Computing and Accelerated Python**](AI_TrainingSeries/October-2025/Session5/)
----
 
 ### Modern Python in Depth - From Fundamentals to Acceleration
 - [**Core Python - Fundamentals**](01-26-Python/Session1/)
