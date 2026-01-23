@@ -1,4 +1,4 @@
-# AI Training Series: Python Refresher
+# Modern Python in Depth - From Fundamentals to Acceleration
 🗓️: Wednesday, January 28, 2026
 
 ---
