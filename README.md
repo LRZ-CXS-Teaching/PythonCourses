@@ -28,7 +28,7 @@ Each course may include:
 - [**Scientific Python**](28-01-2026-Python/Session4/)
 - [**Parallel Computing and Accelerated Python**](28-01-2026-Python/Session5/)
 
-### Modern Python in Depth - From Fundamentals to Acceleration (January 2026)
+### Modern Python in Depth - From Fundamentals to Acceleration (June 2026)
 - [**Core Python - Fundamentals**](17-06-2026-Python/Session1/)
 - [**Core Python - Advanced**](17-06-2026-Python/Session2/)
 - [**Python Tooling**](17-06-2026-Python/Session3/)
